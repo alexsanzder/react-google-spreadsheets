@@ -1,0 +1,8 @@
+{
+  "short_name": "react-google-spreadsheets",
+  "name": "react-google-spreadsheets",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
